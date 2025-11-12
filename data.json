@@ -1,0 +1,8 @@
+[
+  { "nom": "Ordinateur portable", "marque": "Lenovo", "quantite": 30, "categorie": "électronique" },
+  { "nom": "Smartphone", "marque": "Apple", "quantite": 15, "categorie": "électronique" },
+  { "nom": "Clavier mécanique", "marque": "Logitech", "quantite": 45, "categorie": "accessoires" },
+  { "nom": "Moniteur 24 pouces", "marque": "Samsung", "quantite": 20, "categorie": "électronique" },
+  { "nom": "Souris sans fil", "marque": "Microsoft", "quantite": 50, "categorie": "accessoires" },
+  { "nom": "Tablette graphique", "marque": "Wacom", "quantite": 12, "categorie": "électronique" }
+]
